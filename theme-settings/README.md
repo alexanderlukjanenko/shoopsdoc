@@ -1,0 +1,35 @@
+# Theme settings
+
+### **Theme settings sections**
+
+****
+
+* &#x20;[Quick Start](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/quick-start)
+* &#x20;[License](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/license)
+* &#x20;[Logo & Favicon](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/logo-and-favicon)
+* &#x20;[Layout](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/layout)
+* &#x20;[Colors](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/colors)
+* &#x20;[Typography](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/typography)
+* &#x20;[Collection page](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/collection-page-1)
+* &#x20;[Product -> General](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/product-greater-than-general)
+* &#x20;[Product -> Variants](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/product-variants)
+* &#x20;[Product -> Collection Page](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/collection-page)
+* &#x20;[Product Page & Quick View](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/product-page-and-quick-view)
+* &#x20;[Search](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/search)
+* &#x20;[Currency](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/currency)
+* &#x20;[Cart](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/cart)
+* &#x20;[Wishlist & Compare](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/wishlist-and-compare)
+* &#x20;[Payments](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/payments)
+* &#x20;[Social Media](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/social-media)
+* &#x20;[News Subscription](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/news-subscription)
+* &#x20;[Blog & Article Pages](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/blog-and-article-pages)
+* &#x20;[Account](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/account)
+* &#x20;[Reviews](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/reviews)
+* &#x20;[Services](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/services)
+* &#x20;[Apps & Language](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/apps-and-language)
+* &#x20;[Button, Input & Promo Box](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/button-input-and-promo-box)
+* &#x20;[Notifications](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/notifications)
+* &#x20;[Pre-loader](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/pre-loader)
+* &#x20;[Animations](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/animations)
+* &#x20;[Developer](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/developer)
+* &#x20;[Checkout](https://mpithemes.gitbook.io/shella-shopify-theme/theme-settings/checkout)
