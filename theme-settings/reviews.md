@@ -12,7 +12,7 @@ description: In this section, you can enable the reviews apps.
 
 ### Reviews type
 
-&#x20;In order to show reviews on your store, install an app. Shella theme already includes the code needed for the listed apps. Here you can activate the installed app by choosing the needed one from the dropdown list: **“Default (CustomerMeta app)”**, **“Growave app”** or **"Loox app"**. If there is no need to shown reviews in your store or you use another app, select the option **"Disable"**.
+&#x20;In order to show reviews on your store, install an app. Shella theme already includes the code needed for the listed apps. Here you can activate the installed app by choosing the needed one from the dropdown list: **“Default (Shopify Product Reviews app)”**, **“Growave app”** or **"Loox app"**. If there is no need to shown reviews in your store or you use another app, select the option **"Disable"**.
 
 {% hint style="warning" %}
 If you have issue with app installation or app usage. Please, contact the app's support first.
